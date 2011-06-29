@@ -1,3 +1,15 @@
 Rename images is something which arose out of practical need. My digital camera stores images with the name DSC00** . One day I just wanted to organize them, it was a weekend and I had just learnt Python so thought why not give it a try.
 So here it is a quick and dirty way of just renaming images.
 
+usage:
+
+python rename.py <directory path where images are kept>
+
+Results:
+
+Images are renamed in the same directory so backup your data if it is important
+
+ToDo:
+-- Give the option for logging
+-- Give the option for renaming "not in place" , i.e.keep the renamed images at some user specified location
+
